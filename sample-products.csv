@@ -1,0 +1,26 @@
+name,unit,category,brand,stock,status,image
+Laptop Computer,piece,Electronics,Dell,15,In Stock,https://via.placeholder.com/150?text=Laptop
+Wireless Mouse,piece,Electronics,Logitech,42,In Stock,https://via.placeholder.com/150?text=Mouse
+USB-C Cable,piece,Electronics,Belkin,120,In Stock,https://via.placeholder.com/150?text=Cable
+Monitor Stand,piece,Electronics,AmazonBasics,8,Out of Stock,
+Keyboard Mechanical,piece,Electronics,Corsair,23,In Stock,
+Coffee Beans Premium,kg,Food & Beverage,Lavazza,50,In Stock,https://via.placeholder.com/150?text=Coffee
+Tea Assortment,box,Food & Beverage,Twinings,35,In Stock,
+Olive Oil Extra Virgin,liter,Food & Beverage,Gallo,12,In Stock,
+Almond Butter,jar,Food & Beverage,Justin's,6,Out of Stock,
+Dark Chocolate Bar,piece,Confectionery,Lindt,89,In Stock,
+Cotton T-Shirt,piece,Clothing,Gap,156,In Stock,https://via.placeholder.com/150?text=TShirt
+Jeans Blue Denim,piece,Clothing,Levi's,45,In Stock,
+Winter Jacket,piece,Clothing,North Face,12,Low Stock,
+Wool Socks Pack,pack,Clothing,SmartWool,78,In Stock,
+Running Shoes,pair,Footwear,Nike,34,In Stock,https://via.placeholder.com/150?text=Shoes
+Canvas Sneakers,pair,Footwear,Vans,28,In Stock,
+Office Chair Ergonomic,piece,Furniture,Herman Miller,5,Low Stock,
+Standing Desk,piece,Furniture,Flexispot,3,In Stock,
+Bookshelf Wood,piece,Furniture,IKEA,7,In Stock,
+Desk Lamp LED,piece,Office Supplies,BenQ,25,In Stock,
+Notebook A4,piece,Office Supplies,Rhodia,450,In Stock,
+Ball Point Pen,box,Office Supplies,Bic,1200,In Stock,
+Vitamin C Supplement,bottle,Health & Wellness,Nature Made,67,In Stock,
+Protein Powder Vanilla,container,Health & Wellness,Optimum Nutrition,18,In Stock,
+Yoga Mat,piece,Health & Wellness,Manduka,13,In Stock,

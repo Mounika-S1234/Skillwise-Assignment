@@ -1,0 +1,19 @@
+{
+  "name": "inventory-management-system",
+  "version": "1.0.0",
+  "description": "Product Inventory Management System - React + Node.js + SQLite",
+  "private": true,
+  "scripts": {
+    "install-all": "npm install && cd backend && npm install && cd ../frontend && npm install && cd ..",
+    "start": "concurrently \"npm run start-backend\" \"npm run start-frontend\"",
+    "start-backend": "cd backend && npm run dev",
+    "start-frontend": "cd frontend && npm start",
+    "build": "cd backend && npm install && cd ../frontend && npm install && npm run build && cd .."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.1"
+  }
+}
